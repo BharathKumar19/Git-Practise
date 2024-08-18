@@ -47,6 +47,8 @@ Phone :
 <input type="text" name="phone" size="10"/> <br> <br>  
 Address  
 <br>  
+<br>
+<br>
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
 <br> <br>  
